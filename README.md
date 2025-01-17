@@ -8,6 +8,7 @@ Pack_n_Move is a web application designed to simplify packers and movers service
 ## Features
 1. **User Authentication**
    - Login and Registration functionality.
+   - User Profile Management.
 2. **Service Search**
    - Search services based on `from` and `to` locations.
 3. **Company Comparison**
